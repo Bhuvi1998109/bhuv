@@ -1,0 +1,133 @@
+<style>
+
+#search{
+    height:40px;
+    width:800px;
+    margin-left:300px;
+    padding-left:400px;
+  }
+#plant{
+  position: center;
+}
+#contact{
+  color: white;
+  background-color: green;
+}
+
+#nav-line{
+  margin-right:100px;
+}
+
+#topic{
+  margin-top: 20px;
+  font-size: xx-large;
+  font-weight:bolder;
+  text-align: center;
+  
+
+}
+.sp{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  font-weight: bolder;
+}
+
+#A{
+    border-style: solid;
+    height:60px;
+    width:700px;
+    background-color:black;
+}
+
+#B{
+    margin-left:80px;
+}
+
+#C{
+    height:60px;
+    width:130px;
+    margin-left:630px;
+}
+
+#D{
+ color:rgb(32, 88, 15);
+}
+
+#E{
+font-size: larger;
+color:rgb(32, 88, 15);
+}
+
+
+#fp1{
+    color:aliceblue;
+    background-color:white;
+}
+
+#sp1{
+    color:aliceblue;
+    background-color:green;
+}
+#fp2{
+  color:aliceblue;
+  background-color:white;
+}
+
+#sp2{
+  color:aliceblue;
+  background-color:green;
+}
+
+#button{
+    margin-left:580px;
+}
+
+#button2{
+    height:50px;
+    width:120px;
+    margin-left:580px;
+}
+#B{
+  color:green;
+  font-family: 'Times New Roman', Times, serif;
+}
+#F{
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#D{
+  color:green;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#E{
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#fp1{
+  background-color: green;
+}
+#nav-line{
+    height:30px;
+    width:30px;
+    margin-left:500px;
+
+}
+
+#naruto{
+    margin-left:200px;
+    margin-top:200px;
+}
+
+#land{
+height:10px;
+color:black;
+}
+.design{
+  position: absolute;
+}
+
+</style>
